@@ -1,0 +1,15 @@
+# Environnement virtuel
+my_env/
+venv/
+.env
+
+# Python / Django
+__pycache__/
+*.py[cod]
+*$py.class
+db.sqlite3
+media/
+staticfiles/
+
+# macOS
+.DS_Store
